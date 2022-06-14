@@ -1,0 +1,19 @@
+@media (min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+
+#profilePicture{
+    width:210px;
+    height:210px
+ }
+
+ #logoPicture{
+    width:480px;
+    height:480px
+ }
+ #joiningPicture{
+    width:300px;
+    height:400px
+ }
